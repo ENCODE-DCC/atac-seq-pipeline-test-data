@@ -1,0 +1,12 @@
+Sample	
+Genome	GRCh38_no_alt_analysis_set_GCA_000001405.15.fasta.gz
+Paired/Single-ended	Paired-ended
+Read length	N/A
+NRF	0.996873 - OK
+PBC1	0.997833 - OK
+PBC2	585.498599 - OK
+Fraction of reads in NFR	0.194369567086 out of range [0.4, inf]
+NFR / mono-nuc reads	1.37730649413 out of range [2.5, inf]
+Presence of NFR peak	OK
+Presence of Mono-Nuc peak	OK
+Presence of Di-Nuc peak	OK

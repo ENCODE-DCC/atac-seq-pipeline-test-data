@@ -1,0 +1,25 @@
+Sample	
+Genome	GRCh38_no_alt_analysis_set_GCA_000001405.15.fasta.gz
+Paired/Single-ended	Paired-ended
+Read length	N/A
+Raw peaks	115 out of range [10000, inf]
+Naive overlap peaks	33061 - OK
+IDR peaks	571 out of range [10000, inf]
+Min size	85.0
+25 percentile	121.5
+50 percentile (median)	197.0
+75 percentile	403.0
+Max size	627.0
+Mean	261.939130435
+Min size	73.0
+25 percentile	142.0
+50 percentile (median)	209.0
+75 percentile	292.0
+Max size	1206.0
+Mean	231.367381507
+Min size	73.0
+25 percentile	165.5
+50 percentile (median)	326.0
+75 percentile	444.0
+Max size	830.0
+Mean	324.316987741

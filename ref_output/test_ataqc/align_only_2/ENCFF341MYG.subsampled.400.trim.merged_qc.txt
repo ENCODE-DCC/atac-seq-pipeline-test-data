@@ -1,0 +1,5 @@
+Sample	
+Genome	GRCh38_no_alt_analysis_set_GCA_000001405.15.fasta.gz
+Paired/Single-ended	Paired-ended
+Read length	76
+picard_est_library_size	51268130
