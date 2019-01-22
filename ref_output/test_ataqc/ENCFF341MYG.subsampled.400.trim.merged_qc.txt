@@ -24,24 +24,18 @@ Presence of Di-Nuc peak	OK
 Raw peaks	115 out of range [10000, inf]
 Naive overlap peaks	33061 - OK
 IDR peaks	571 out of range [10000, inf]
-Min size	85.0
-25 percentile	121.5
-50 percentile (median)	197.0
-75 percentile	403.0
-Max size	627.0
-Mean	261.939130435
-Min size	73.0
-25 percentile	142.0
-50 percentile (median)	209.0
-75 percentile	292.0
-Max size	1206.0
-Mean	231.367381507
-Min size	73.0
-25 percentile	165.5
-50 percentile (median)	326.0
-75 percentile	444.0
-Max size	830.0
-Mean	324.316987741
+Naive peak stats: Min size	73.0
+Naive peak stats: 25 percentile	142.0
+Naive peak stats: 50 percentile (median)	209.0
+Naive peak stats: 75 percentile	292.0
+Naive peak stats: Max size	1206.0
+Naive peak stats: Mean	231.367381507
+IDR peak stats: Min size	73.0
+IDR peak stats: 25 percentile	165.5
+IDR peak stats: 50 percentile (median)	326.0
+IDR peak stats: 75 percentile	444.0
+IDR peak stats: Max size	830.0
+IDR peak stats: Mean	324.316987741
 TSS_enrichment	20.3977388654
 Fraction of reads in universal DHS regions	207705	0.494783105839
 Fraction of reads in blacklist regions	8	1.90571476214e-05
