@@ -1,0 +1,4 @@
+fraction_of_reads_in_universal_DHS_regions	207705	0.494783105839
+fraction_of_reads_in_blacklist_regions	8	1.90571476214e-05
+fraction_of_reads_in_promoter_regions	69869	0.166437980895
+fraction_of_reads_in_enhancer_regions	170294	0.40566473713

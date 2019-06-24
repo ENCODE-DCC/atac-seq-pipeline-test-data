@@ -1,0 +1,28 @@
+PAIRED_END_BAM_INPUT
+paired = 302833
+unpaired = 80206
+MERGED PAIRED END READS = 302833
+MATES PROCESSED = 685872
+TOTAL READS     = 383039
+DISTINCT READS  = 380463
+DISTINCT COUNTS = 10
+MAX COUNT       = 11
+COUNTS OF 1     = 378411
+MAX TERMS       = 8
+OBSERVED COUNTS (12)
+1	378411
+2	1708
+3	252
+4	52
+5	16
+6	12
+7	5
+8	4
+9	2
+11	1
+
+[ESTIMATING YIELD CURVE]
+[BOOTSTRAPPING HISTOGRAM]
+__._.___..._...._._._________..__.____.._.__.__..__...._.__.____._._._____._.___.________.___._..___._______.__________._...._._._..__..__________._______________..__.___..._______...__._.____..____._..__.._____._______.____._..___._.__._____.._____._..._____.___._.______._._.__.._....__._._..__.________.
+[COMPUTING CONFIDENCE INTERVALS]
+[WRITING OUTPUT]
